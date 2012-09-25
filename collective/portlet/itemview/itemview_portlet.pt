@@ -8,7 +8,7 @@
         <span class="portletTopRight"></span>
     </dt>
 
-    <dd class="portletItemDetails">
+    <dd class="portletItem portletItemDetails">
         <p tal:content="view/description">
                 content
         </p>

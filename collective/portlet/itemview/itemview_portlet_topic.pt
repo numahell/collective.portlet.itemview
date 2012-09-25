@@ -30,7 +30,7 @@
             <span tal:replace="obj/pretty_title_or_id">
              Title
             </span>
-            <span class="portletItemDetails"
+            <span class="portletItem portletItemDetails"
                   tal:content="python:toLocalizedTime(obj.Date)">
                 Date
             </span>
